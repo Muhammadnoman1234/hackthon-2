@@ -1,0 +1,63 @@
+v22.21.1
+'C:\Python314\python.exe' is not recognized as an internal or external command,
+operable program or batch file.
+ Volume in drive C has no label.
+ Volume Serial Number is 0A62-2C72
+
+ Directory of C:\Users\mn244\Desktop\hackthon 2
+
+02/04/2026  11:01 AM    <DIR>          .
+02/04/2026  11:01 AM    <DIR>          ..
+01/30/2026  11:29 PM    <DIR>          .qoder
+01/31/2026  11:28 AM             1,182 AGENTS.md
+01/30/2026  11:58 PM             2,390 APPLICATION_READY.md
+02/04/2026  11:00 AM    <DIR>          backend
+01/31/2026  11:23 AM    <DIR>          blueprints
+01/31/2026  11:28 AM                12 CLAUDE.md
+01/30/2026  11:12 PM    <DIR>          data
+01/31/2026  11:49 AM             3,444 DEPLOYMENT.md
+02/02/2026  12:27 AM             8,386 DESIGN_SYSTEM.md
+01/30/2026  11:53 PM               994 direct_launch.bat
+01/30/2026  11:54 PM             2,626 direct_launch.ps1
+01/31/2026  11:48 AM             1,456 docker-compose.yml
+02/04/2026  10:59 AM    <DIR>          frontend
+01/30/2026  11:30 PM             3,284 full_setup.bat
+02/04/2026  10:30 AM                 7 helloabc.txt
+01/31/2026  11:48 AM    <DIR>          helm
+01/30/2026  11:16 PM             3,842 IMPLEMENTATION_SUMMARY.md
+02/04/2026  10:50 AM    <DIR>          local_python
+02/04/2026  10:51 AM             4,980 local_run.ps1
+02/04/2026  10:49 AM             2,400 local_setup_run.bat
+01/31/2026  11:21 AM    <DIR>          modern_todo
+02/04/2026  12:38 AM                10 node_ver.txt
+02/04/2026  10:31 AM               333 npm_output.txt
+02/04/2026  10:50 AM    <DIR>          phase1
+02/04/2026  11:01 AM               200 pwd.txt
+02/04/2026  10:38 AM               288 python_check.txt
+02/04/2026  12:38 AM                97 python_ver.txt
+02/04/2026  12:38 AM                93 py_ver.txt
+02/04/2026  12:33 AM             5,971 QUICKSTART.md
+01/30/2026  11:15 PM             1,855 QUICK_START.md
+01/30/2026  11:15 PM             5,371 README.md
+01/31/2026  12:53 PM               761 run.bat
+01/31/2026  12:53 PM             2,438 run.ps1
+01/30/2026  11:19 PM             1,606 run_advanced.bat
+02/04/2026  10:52 AM             2,156 run_web_local.bat
+02/04/2026  10:52 AM             4,666 run_web_local.ps1
+01/31/2026  11:28 AM             1,133 speckit.constitution
+01/31/2026  11:28 AM             1,051 speckit.plan
+01/31/2026  11:28 AM             1,150 speckit.specify
+01/31/2026  11:36 AM             1,064 speckit.tasks
+02/04/2026  12:30 AM             3,177 start.bat
+01/31/2026  12:56 PM               260 start_frontend.bat
+02/04/2026  12:30 AM               972 start_frontend_only.bat
+01/31/2026  12:53 PM               221 start_fullstack.bat
+02/04/2026  10:39 AM               296 start_output.txt
+02/04/2026  12:38 AM                 8 test.txt
+01/30/2026  11:15 PM             5,645 test_app.py
+02/04/2026  10:29 AM                20 test_output.txt
+02/02/2026  12:27 AM             5,990 UI_UX_SUMMARY.md
+02/04/2026  11:01 AM               124 version_check.txt
+02/04/2026  10:53 AM    <DIR>          web_todo_app
+              41 File(s)         81,959 bytes
+              12 Dir(s)  43,378,561,024 bytes free

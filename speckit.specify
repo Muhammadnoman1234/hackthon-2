@@ -1,0 +1,24 @@
+# speckit.specify - Features & Requirements
+
+## Overview
+A 5-Phase journey from a simple Console App to a Distributed AI Chatbot.
+
+## Phase II: Full-Stack Web Application (Current Goal)
+- **User Journey**: User signs up via Better Auth, manages tasks in a premium web dashboard.
+- **Core Features**: Add, Delete, Update, View, Mark Complete.
+- **Persistence**: Database state in Neon (PostgreSQL).
+- **Authentication**: JWT-based isolation (User isolation).
+
+## Intermediate Features (Organization)
+- **Priorities & Tags**: Assign levels (H/M/L) and labels (Work/Home).
+- **Search & Filter**: Keyword search; filter by status/priority/date.
+- **Sort**: Order by due date, priority, or name.
+
+## Phase III: AI-Powered Chatbot
+- **Conversational Interface**: OpenAI Agents SDK integration.
+- **Tool Use**: MCP Server for managing tasks via natural language.
+- **Stateless Chat**: Context stored in DB (Conversations & Messages tables).
+
+## Phase IV & V: Cloud-Native Evolution
+- **Phase IV**: Local K8s (Minikube) with Helm charts and AIOps (kubectl-ai).
+- **Phase V**: Advanced Cloud (Kafka, Dapr, Reminders, Recurring Tasks).

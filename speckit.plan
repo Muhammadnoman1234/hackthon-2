@@ -1,0 +1,32 @@
+# speckit.plan - Evolution of Todo Architecture
+
+## Phase II: Monorepo Architecture
+```
+hackathon-todo/
+├── backend/            # FastAPI + SQLModel
+│   ├── main.py        # Entry point
+│   ├── models.py      # SQLModel definitions
+│   └── auth.py        # JWT Verification middleware
+├── frontend/           # Next.js + Better Auth
+│   ├── app/           # App Router
+│   └── components/    # Reusable UI
+```
+
+## Database Schema (SQLModel)
+- **User**: Managed by Better Auth.
+- **Task**: 
+    - id: int (PK)
+    - user_id: str (Indexed)
+    - title: str (1-200)
+    - description: str (0-1000)
+    - completed: bool
+    - created_at: datetime
+    - updated_at: datetime
+
+## AI Agent Integration (Phase III)
+- **Agents**: CoreOrchestrator (OpenAI SDK).
+- **Tools**: MCP Server exposing `add_task`, `list_tasks`, etc.
+
+## Infrastructure (Phase IV/V)
+- **Dapr Sidecar**: Pub/Sub (Kafka), Secrets (K8s), State (Redis/PG).
+- **Kafka Topics**: `task-events`, `reminders`.

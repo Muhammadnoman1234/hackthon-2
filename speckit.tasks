@@ -1,0 +1,16 @@
+# speckit.tasks - Evolution of Todo Work units
+
+## Phase II: Full-Stack Implementation
+- [x] **T-201**: Initialize Monorepo structure (`/backend`, `/frontend`). (Complete)
+- [x] **T-202**: [Backend] Define SQLModel schemas in `models.py` (User & Task). (Complete)
+- [x] **T-203**: [Backend] Implement FastAPI routes for CRUD (List, Add, Edit, Delete, Toggle). (Complete)
+- [x] **T-204**: [Backend] Add JWT Verification middleware (Integration with Better Auth). (Complete)
+- [x] **T-205**: [Frontend] Scaffold Next.js 16 App Router. (Complete)
+- [x] **T-206**: [Frontend] Implement Better Auth (Signup/Signin). (Complete)
+- [x] **T-207**: [Frontend] Create Premium Dashboard UI (Glassmorphism). (Complete)
+- [x] **T-208**: [Frontend] Connect Frontend components to Backend API. (Complete)
+
+## Phase III: AI Bot Implementation
+- [x] **T-301**: Initialize OpenAI Agents SDK core orchestrator. (Complete)
+- [x] **T-302**: Develop MCP Server for persistent task management. (Complete)
+- [x] **T-303**: Connect ChatKit UI to Agentic Backend. (Complete)

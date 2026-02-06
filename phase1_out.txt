@@ -1,0 +1,14 @@
+Initializing Todo Application...
+==================================================
+           TODO CONSOLE APPLICATION
+==================================================
+
+Welcome to the Todo Console Application!
+Loading your tasks...
+No existing tasks found. Ready to create your first task!
+
+Starting application...
+
+Press Enter to continue...
+
+Application interrupted. Goodbye!

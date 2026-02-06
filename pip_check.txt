@@ -1,0 +1,1 @@
+C:\Users\mn244\Desktop\hackthon 2\local_python\python.exe: No module named pip

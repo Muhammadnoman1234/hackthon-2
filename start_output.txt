@@ -1,0 +1,8 @@
+========================================
+  TASKFLOW AI - FULL STACK STARTUP
+========================================
+
+[ERROR] Python is not installed!
+Please install Python from https://www.python.org/
+Press any key to continue . . . 
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

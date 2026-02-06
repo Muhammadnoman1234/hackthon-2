@@ -1,0 +1,22 @@
+# speckit.constitution - Evolution of Todo
+
+## Core Principles
+1. **Spec-First Architecture**: No implementation without a validated spec and plan.
+2. **AI-Native Efficiency**: Leverage agents for maximum productivity, minimizing boilerplate.
+3. **Cloud-Native Resilience**: Design for scalability, decouple with Dapr/Kafka.
+4. **Iterative Evolution**: Start simple (Phase I), evolve to complex (Phase V).
+5. **Reusable Intelligence**: Encapsulate logic in subagents and skills.
+
+## Technology Standards
+- **Backend**: FastAPI, Python 3.13+, SQLModel.
+- **Frontend**: Next.js 16+, TypeScript, Tailwind CSS.
+- **Auth**: Better Auth with JWT verification on backend.
+- **Database**: Neon Serverless PostgreSQL.
+- **Infrastructure**: Docker, Kubernetes (Minikube/DOKS), Helm.
+- **AIOps**: Dapr, Kafka, kubectl-ai.
+
+## Architecture Guidelines
+- **Statelessness**: Every request must be self-contained (Stateless Chat).
+- **Security**: Mandatory JWT verification for all API endpoints.
+- **Asynchronous**: Use Kafka for cross-service events.
+- **UI/UX**: Premium Aesthetics with Glassmorphism and responsive design.
